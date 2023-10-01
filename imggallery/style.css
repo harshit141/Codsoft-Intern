@@ -8,6 +8,7 @@
     height: 100vh;
     overflow-x: hidden;
     overflow-y: auto;
+
 }
 
 .container {
@@ -15,6 +16,7 @@
     max-width: 1200px;
     padding: 20px;
     margin: 0 auto;
+
 
 }
 
